@@ -1,0 +1,7 @@
+{"classifier":"svc",
+ "classifier_args":{"C" : 0.01, "cache_size":200, "kernel":"linear", "tol":0.001},
+ "lowercase":"true",
+ "map_to_synsets":"true",
+ "map_to_lex":"true",
+ "duplicates":"true"
+}
